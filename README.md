@@ -1,7 +1,7 @@
 # Web Design Documents
 
 
-Tutorials and examples of good design things
+Tutorials and examples of good design things.
 
 - [the-digital-hierarchy-of-needs-in-emotional-design](http://beinglimited.com/the-digital-hierarchy-of-needs-in-emotional-design/)
 - [three-ways-to-design-a-delightful-user-experience](http://beinglimited.com/three-ways-to-design-a-delightful-user-experience/)
