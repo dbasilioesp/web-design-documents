@@ -3,8 +3,9 @@
 
 Tutorials and examples of good design things.
 
-- [the-digital-hierarchy-of-needs-in-emotional-design](http://beinglimited.com/the-digital-hierarchy-of-needs-in-emotional-design/)
-- [three-ways-to-design-a-delightful-user-experience](http://beinglimited.com/three-ways-to-design-a-delightful-user-experience/)
+- [How to Create Style Guides for a Specific Audience](http://webdesign.tutsplus.com/articles/how-to-create-style-guides-for-a-specific-audience--cms-21047)
+- [The Digital Hierarchy of Needs in Emotional Design](http://beinglimited.com/the-digital-hierarchy-of-needs-in-emotional-design/)
+- [Three Ways to Design a Delightful User Experience](http://beinglimited.com/three-ways-to-design-a-delightful-user-experience/)
 
 ## Responsive Design
 
