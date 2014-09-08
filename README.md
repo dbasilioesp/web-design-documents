@@ -7,6 +7,14 @@ Tutorials and examples of good design things.
 - [The Digital Hierarchy of Needs in Emotional Design](http://beinglimited.com/the-digital-hierarchy-of-needs-in-emotional-design/)
 - [Three Ways to Design a Delightful User Experience](http://beinglimited.com/three-ways-to-design-a-delightful-user-experience/)
 
+## UI
+
+- [UI Faces](http://uifaces.com/)
+- [UI Names](http://uinames.com/)
+- [UI Gradients](http://uigradients.com/)
+- [Flat UI Colors](http://flatuicolors.com/)
+- [Kuler](https://kuler.adobe.com/)
+
 ## Responsive Design
 
 - [responsive-web-design-should-not-be-your-only-mobile-strategy](http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/)
