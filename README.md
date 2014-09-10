@@ -6,6 +6,7 @@ Tutorials and examples of good design things.
 - [How to Create Style Guides for a Specific Audience](http://webdesign.tutsplus.com/articles/how-to-create-style-guides-for-a-specific-audience--cms-21047)
 - [The Digital Hierarchy of Needs in Emotional Design](http://beinglimited.com/the-digital-hierarchy-of-needs-in-emotional-design/)
 - [Three Ways to Design a Delightful User Experience](http://beinglimited.com/three-ways-to-design-a-delightful-user-experience/)
+- [Naming CSS Stuff is really hard](http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 
 ## UI
 
