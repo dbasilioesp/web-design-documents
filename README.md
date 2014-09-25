@@ -36,3 +36,7 @@ Tutorials and examples of good design things.
 
 - [dos-and-donts-of-using-light-typefaces](http://uxmovement.com/content/dos-and-donts-of-using-light-typefaces/)
 - [The History of Typography by Ben Barrett-Forrest](http://vimeo.com/65899856)
+
+## Performance
+
+- [CSS Audits taking stock of your code](http://alistapart.com/article/css-audits-taking-stock-of-your-code)
