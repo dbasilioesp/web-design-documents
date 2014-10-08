@@ -30,6 +30,7 @@ Tutorials and examples of good design things.
 ## Brands
 
 - [Medium](https://www.behance.net/gallery/Medium-Brand-Development/7226653)
+- [Evernote](https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf)
 
 
 ## Fonts
