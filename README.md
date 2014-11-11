@@ -40,6 +40,11 @@ Tutorials and examples of good design things.
 - [The History of Typography by Ben Barrett-Forrest](http://vimeo.com/65899856)
 - [A Typeface for the Underground](http://www.londonreconnections.com/2009/a-typeface-for-the-underground/)
 - [The Most Famous Fonts](https://www.google.com/fonts#Analytics:total)
+- [Typegenius](http://www.typegenius.com/)
+
+## Colors
+
+- [http://bada55.io/](http://bada55.io/)
 
 ## Performance
 
