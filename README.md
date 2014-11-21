@@ -9,24 +9,22 @@ Tutorials and examples of good design things.
 - [Naming CSS Stuff is really hard](http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](http://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
 
-## UI
+## Styleguides
+
+- [http://styleguides.io/](http://styleguides.io/)
+
+## UI & Colors
 
 - [UI Faces](http://uifaces.com/)
 - [UI Names](http://uinames.com/)
 - [UI Gradients](http://uigradients.com/)
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Kuler](https://kuler.adobe.com/)
+- [http://bada55.io/](http://bada55.io/)
 
 ## Responsive Design
 
 - [responsive-web-design-should-not-be-your-only-mobile-strategy](http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/)
-
-
-## Incredible Sites
-
-- [nytimes.com](http://www.nytimes.com/redesign)
-- [Open Buffer App](http://open.bufferapp.com/)
-
 
 ## Brands
 
@@ -41,10 +39,6 @@ Tutorials and examples of good design things.
 - [A Typeface for the Underground](http://www.londonreconnections.com/2009/a-typeface-for-the-underground/)
 - [The Most Famous Fonts](https://www.google.com/fonts#Analytics:total)
 - [Typegenius](http://www.typegenius.com/)
-
-## Colors
-
-- [http://bada55.io/](http://bada55.io/)
 
 ## Performance
 
