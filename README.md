@@ -49,3 +49,4 @@ Tutorials and examples of good design things.
 ## Tools
 
 - [Clippy](http://bennettfeely.com/clippy/)
+- [Styling Iconic](http://tutsplus.github.io/Styling-Iconic/theming/index.html)
