@@ -21,6 +21,7 @@ Tutorials and examples of good design things.
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Kuler](https://kuler.adobe.com/)
 - [http://bada55.io/](http://bada55.io/)
+- [BootstrapTaste](http://bootstraptaste.com/)
 
 ## Responsive Design
 
