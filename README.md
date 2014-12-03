@@ -5,6 +5,7 @@ Tutorials and examples of good design things.
 
 - [How to Create Style Guides for a Specific Audience](http://webdesign.tutsplus.com/articles/how-to-create-style-guides-for-a-specific-audience--cms-21047)
 - [The Digital Hierarchy of Needs in Emotional Design](http://beinglimited.com/the-digital-hierarchy-of-needs-in-emotional-design/)
+- [8 Steps create solid brand voice](http://beinglimited.com/8-steps-create-solid-brand-voice/)
 - [Three Ways to Design a Delightful User Experience](http://beinglimited.com/three-ways-to-design-a-delightful-user-experience/)
 - [Naming CSS Stuff is really hard](http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](http://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
