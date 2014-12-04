@@ -10,6 +10,10 @@ Tutorials and examples of good design things.
 - [Naming CSS Stuff is really hard](http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](http://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
 
+## Imagens
+
+- [Stock Photos List](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
+
 ## Styleguides
 
 - [http://styleguides.io/](http://styleguides.io/)
