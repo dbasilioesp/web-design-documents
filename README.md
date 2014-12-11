@@ -56,6 +56,7 @@ Tutorials and examples of good design things.
 - [Clippy](http://bennettfeely.com/clippy/)
 - [Styling Iconic](http://tutsplus.github.io/Styling-Iconic/theming/index.html)
 - [CSS Stats](http://cssstats.com/)
+- [Dante Editor](https://github.com/michelson/dante)
  
 ## Blogs
 
