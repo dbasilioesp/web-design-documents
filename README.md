@@ -28,6 +28,7 @@ Tutorials and examples of good design things.
 - [Kuler](https://kuler.adobe.com/)
 - [http://bada55.io/](http://bada55.io/)
 - [BootstrapTaste](http://bootstraptaste.com/)
+- [Material Pallete](http://www.materialpalette.com/)
 
 ## Responsive Design
 
