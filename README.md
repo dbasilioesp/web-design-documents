@@ -10,6 +10,7 @@ Tutorials and examples of good design things.
 - [Naming CSS Stuff is really hard](http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](http://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
 - [7 Rules for creating gorgeous ui part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+- [29 Things young designers need to know](http://www.howdesign.com/design-career/29-things-young-designers-need-to-know/)
 
 ## Imagens
 
