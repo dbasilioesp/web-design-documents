@@ -65,3 +65,7 @@ Tutorials and examples of good design things.
 
 - [UX Myths](http://uxmyths.com/)
 - [Usability](http://www.usability.gov/how-to-and-tools/methods/index.html)
+
+## Jobs Framework
+
+- [Converting to Jobs Stories](http://robots.thoughtbot.com/converting-to-jobs-stories)
