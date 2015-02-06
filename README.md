@@ -81,3 +81,5 @@ Tutorials and examples of good design things.
 ## Interatividade (Animações)
 
 - [Hover Effect Ideas](http://tympanus.net/Development/HoverEffectIdeas/index.html)
+- [Animation Menus CSS](http://tympanus.net/Tutorials/CreativeCSS3AnimationMenus/index.html)
+- [Slidebar Transitions](http://tympanus.net/Development/SidebarTransitions/)
