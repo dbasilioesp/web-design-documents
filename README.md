@@ -77,3 +77,7 @@ Tutorials and examples of good design things.
 ## Jobs Framework
 
 - [Converting to Jobs Stories](http://robots.thoughtbot.com/converting-to-jobs-stories)
+
+## Interatividade (Animações)
+
+- [Hover Effect Ideas](http://tympanus.net/Development/HoverEffectIdeas/index.html)
