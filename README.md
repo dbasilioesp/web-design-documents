@@ -64,6 +64,10 @@ Tutorials and examples of good design things.
 - [Styling Iconic](http://tutsplus.github.io/Styling-Iconic/theming/index.html)
 - [CSS Stats](http://cssstats.com/)
 - [Dante Editor](https://github.com/michelson/dante)
+
+## Icons
+
+- [50 freebies](http://www.webdesignerdepot.com/2014/10/50-fantastic-freebies-for-web-designers-october-2014/)
  
 ## Blogs
 
