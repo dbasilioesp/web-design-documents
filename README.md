@@ -31,6 +31,7 @@ Tutorials and examples of good design things.
 - [http://bada55.io/](http://bada55.io/)
 - [BootstrapTaste](http://bootstraptaste.com/)
 - [Material Pallete](http://www.materialpalette.com/)
+- [Sumo Paint](http://www.sumopaint.com/)
 
 ## Responsive Design
 
