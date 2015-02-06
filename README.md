@@ -27,7 +27,7 @@ Tutorials and examples of good design things.
 - [UI Names](http://uinames.com/)
 - [UI Gradients](http://uigradients.com/)
 - [Flat UI Colors](http://flatuicolors.com/)
-- [Kuler](https://kuler.adobe.com/)
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [http://bada55.io/](http://bada55.io/)
 - [BootstrapTaste](http://bootstraptaste.com/)
 - [Material Pallete](http://www.materialpalette.com/)
