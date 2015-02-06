@@ -32,6 +32,7 @@ Tutorials and examples of good design things.
 - [BootstrapTaste](http://bootstraptaste.com/)
 - [Material Pallete](http://www.materialpalette.com/)
 - [Sumo Paint](http://www.sumopaint.com/)
+- [Paletton](http://paletton.com/)
 
 ## Responsive Design
 
