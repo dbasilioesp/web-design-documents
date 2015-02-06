@@ -12,6 +12,7 @@ Tutorials and examples of good design things.
 - [7 Rules for creating gorgeous ui part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 - [29 Things young designers need to know](http://www.howdesign.com/design-career/29-things-young-designers-need-to-know/)
 - [4 Hs of writing error messages](http://uxmas.com/2012/the-4-hs-of-writing-error-messages)
+- [Misconception about the importance of home pages](http://beinglimited.com/misconception-about-the-importance-of-home-pages/)
 
 ## Imagens
 
