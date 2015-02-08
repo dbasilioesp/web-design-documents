@@ -16,6 +16,7 @@ Tutorials and examples of good design things.
 - [Weird 62-5 Antipattern](http://nerd.vasilis.nl/weird-62-5-antipattern/)
 - [Slaying the Dragon: Refactoring CSS fot Maintainability](https://vimeo.com/100501790)
 - [Reading List for Designers](http://blog.invisionapp.com/reading-list-for-designers/)
+- [Web Page Rendering Steps](http://frontendbabel.info/articles/webpage-rendering-101/)
 
 ## Imagens
 
