@@ -15,6 +15,7 @@ Tutorials and examples of good design things.
 - [Misconception about the importance of home pages](http://beinglimited.com/misconception-about-the-importance-of-home-pages/)
 - [Weird 62-5 Antipattern](http://nerd.vasilis.nl/weird-62-5-antipattern/)
 - [Slaying the Dragon: Refactoring CSS fot Maintainability](https://vimeo.com/100501790)
+- [Reading List for Designers](http://blog.invisionapp.com/reading-list-for-designers/)
 
 ## Imagens
 
