@@ -28,6 +28,7 @@ Tutorials and examples of good design things.
 
 ## UI & Colors
 
+- [Color Theory Basics](http://www.thinkful.com/learn/color-theory-basics/Introduction)
 - [UI Faces](http://uifaces.com/)
 - [UI Names](http://uinames.com/)
 - [UI Gradients](http://uigradients.com/)
