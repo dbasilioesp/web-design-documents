@@ -59,6 +59,7 @@ Tutorials and examples of good design things.
 - [The Most Famous Fonts](https://www.google.com/fonts#Analytics:total)
 - [Typegenius](http://www.typegenius.com/)
 - [Design With Type](http://www.designingwithtype.com/)
+- [Death to Typewriters](https://medium.com/designing-medium/death-to-typewriters-9b7712847639)
 
 ## Performance
 
@@ -75,6 +76,7 @@ Tutorials and examples of good design things.
 ## Icons
 
 - [50 freebies](http://www.webdesignerdepot.com/2014/10/50-fantastic-freebies-for-web-designers-october-2014/)
+- [TransformIcons](http://www.transformicons.com/)
  
 ## Blogs
 
