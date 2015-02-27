@@ -18,6 +18,7 @@ Tutorials and examples of good design things.
 - [Reading List for Designers](http://blog.invisionapp.com/reading-list-for-designers/)
 - [Web Page Rendering Steps](http://frontendbabel.info/articles/webpage-rendering-101/)
 - [Design Tip: Never Use Black](http://ianstormtaylor.com/design-tip-never-use-black/)
+- [The Ultimate Guide To Information Architecture](http://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/)
 
 ## Imagens
 
