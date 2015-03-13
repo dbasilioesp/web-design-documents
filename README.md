@@ -10,7 +10,6 @@ Tutorials and examples of good design things.
 - [Naming CSS Stuff is really hard](http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](http://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
 - [7 Rules for creating gorgeous ui part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
-- [29 Things young designers need to know](http://www.howdesign.com/design-career/29-things-young-designers-need-to-know/)
 - [4 Hs of writing error messages](http://uxmas.com/2012/the-4-hs-of-writing-error-messages)
 - [Misconception about the importance of home pages](http://beinglimited.com/misconception-about-the-importance-of-home-pages/)
 - [Weird 62-5 Antipattern](http://nerd.vasilis.nl/weird-62-5-antipattern/)
@@ -19,6 +18,7 @@ Tutorials and examples of good design things.
 - [Web Page Rendering Steps](http://frontendbabel.info/articles/webpage-rendering-101/)
 - [Design Tip: Never Use Black](http://ianstormtaylor.com/design-tip-never-use-black/)
 - [The Ultimate Guide To Information Architecture](http://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/)
+- [Speaking The Same Language](https://medium.com/re-form/speaking-the-same-language-6b264b9bf0d2)
 
 ## Imagens
 
