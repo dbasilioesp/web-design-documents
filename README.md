@@ -27,6 +27,7 @@ Tutorials and examples of good design things.
 ## Styleguides
 
 - [http://styleguides.io/](http://styleguides.io/)
+- [Side Effects](http://philipwalton.com/articles/side-effects-in-css/)
 
 ## UI & Colors
 
