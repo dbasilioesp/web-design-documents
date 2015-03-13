@@ -20,6 +20,7 @@ Tutorials and examples of good design things.
 - [The Ultimate Guide To Information Architecture](http://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/)
 - [Speaking The Same Language](https://medium.com/re-form/speaking-the-same-language-6b264b9bf0d2)
 - [10 Web Design Trends Can Expect See 2015](http://thenextweb.com/dd/2015/01/02/10-web-design-trends-can-expect-see-2015/1/)
+- [Is Consumer Research Losing Its Focus ?](http://www.userfocus.co.uk/articles/focuspocus.html)
 
 ## Imagens
 
