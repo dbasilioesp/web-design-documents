@@ -65,6 +65,7 @@ Tutorials and examples of good design things.
 - [Typegenius](http://www.typegenius.com/)
 - [Design With Type](http://www.designingwithtype.com/)
 - [Death to Typewriters](https://medium.com/designing-medium/death-to-typewriters-9b7712847639)
+- [Web Font Test](http://webfont-test.com/)
 
 ## Performance
 
