@@ -45,6 +45,7 @@ Tutorials and examples of good design things.
 - [Material Pallete](http://www.materialpalette.com/)
 - [Sumo Paint](http://www.sumopaint.com/)
 - [Paletton](http://paletton.com/)
+- [Labs Tineye](http://labs.tineye.com/multicolr/)
 
 ## Responsive Design
 
